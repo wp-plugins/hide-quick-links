@@ -4,7 +4,7 @@ Plugin Name: Hide Quick Links
 Plugin URI: http://www.mclanka.com
 Description: This plugin hides the quick links in wordpress 3.3
 Author: Udara Madushan
-Version: 1.0
+Version: 0.2
 Author URI: http://udara.mclanka.com
 */
 function controller(){
