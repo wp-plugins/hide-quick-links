@@ -5,7 +5,7 @@ Plugin URI: http://www.mclanka.com
 Description: This plugin hides the quick links in wordpress 3.3
 Author: Udara Madushan
 Version: 1.0
-Author URI:
+Author URI: http://udara.mclanka.com
 */
 function controller(){
     echo '<link rel="stylesheet" type="text/css" href="' .plugins_url('wp-admin.css', __FILE__). '">';
